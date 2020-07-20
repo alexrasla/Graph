@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/alexrasla/Documents/cs130a/project2/PA2/FeatureGraph.h
+string
+-
+vector
+-
+map
+-
+GraphHelper.h
+/Users/alexrasla/Documents/cs130a/project2/PA2/GraphHelper.h
+
+/Users/alexrasla/Documents/cs130a/project2/PA2/GraphAnalyzer.h
+FeatureGraph.h
+/Users/alexrasla/Documents/cs130a/project2/PA2/FeatureGraph.h
+iostream
+-
+algorithm
+-
+
+/Users/alexrasla/Documents/cs130a/project2/PA2/GraphHelper.h
+vector
+-
+
+/Users/alexrasla/Documents/cs130a/project2/PA2/GraphTest.cpp
+GraphHelper.h
+/Users/alexrasla/Documents/cs130a/project2/PA2/GraphHelper.h
+FeatureGraph.h
+/Users/alexrasla/Documents/cs130a/project2/PA2/FeatureGraph.h
+GraphAnalyzer.h
+/Users/alexrasla/Documents/cs130a/project2/PA2/GraphAnalyzer.h
+map
+-
+iostream
+-
+
